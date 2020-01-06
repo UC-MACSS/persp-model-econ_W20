@@ -61,7 +61,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Jan. 20 | M | **No class (Martin Luther King, Jr. Day)** |  |  |
 | Jan. 22 | W | Dynamic programming   | |     |
 | Jan. 27 | M | Maximum likelihood estimation (MLE) | Notebk | PS4 |
-| Jan. 29 | W | Class cancelled: winter weather | |  |
+| Jan. 29 | W | Maximum likelihood estimation (MLE) | |  |
 | Feb.  3 | M | Generalized method of moments (GMM) | Notebk | PS5 |
 | Feb.  5 | W | Generalized method of moments (GMM) |  |  |
 | **Feb. 11** | **M** | **Evans Midterm** |  |  |
