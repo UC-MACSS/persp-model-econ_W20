@@ -54,26 +54,26 @@ If you need any special accommodations, please provide us with a copy of your Ac
 
 | Date | Day | Topic | Readings | Assignment |
 |------------|-------|---------------------------------------------------------|--------------|------------------------------|
-| Jan.  6 | M | Model/theory building, data generating processes | [V1997](http://people.ischool.berkeley.edu/~hal/Papers/how.pdf), [Slides](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Slides/PerspModel_Intro.pdf) | [PS1](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/ProblemSets/PS1/PS1.pdf) |
-| Jan.  8 | W | Numerical derivatives | [Notes](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notes/ACME_NumDiff.pdf) | [PS2](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/ProblemSets/PS2/PS2.pdf) |
-| Jan. 13 | M | Numerical integration | [Notebk](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notebooks/NumIntegr/NumIntegr.ipynb) |  |
-| Jan. 15 | W | Dynamic programming   | [Notes](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notes/DynProg_Evans.pdf) | [PS3](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/ProblemSets/PS3/PS3.pdf) |
+| Jan.  6 | M | Model/theory building, data generating processes | [V1997](http://people.ischool.berkeley.edu/~hal/Papers/how.pdf), [Slides](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/Slides/PerspModel_Intro.pdf) | [PS1](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/ProblemSets/PS1/PS1.pdf) |
+| Jan.  8 | W | Numerical derivatives | Notes | PS2 |
+| Jan. 13 | M | Numerical integration | Notebk |  |
+| Jan. 15 | W | Dynamic programming   | Notes | PS3 |
 | Jan. 20 | M | **No class (Martin Luther King, Jr. Day)** |  |  |
 | Jan. 22 | W | Dynamic programming   | |     |
-| Jan. 27 | M | Maximum likelihood estimation (MLE) | [Notebk](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notebooks/MLE/MLest.ipynb) | [PS4](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/ProblemSets/PS4/PS4.pdf) |
+| Jan. 27 | M | Maximum likelihood estimation (MLE) | Notebk | PS4 |
 | Jan. 29 | W | Class cancelled: winter weather | |  |
-| Feb.  3 | M | Generalized method of moments (GMM) | [Notebk](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notebooks/GMM/GMMest.ipynb) | [PS5](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/ProblemSets/PS5/PS5.pdf) |
+| Feb.  3 | M | Generalized method of moments (GMM) | Notebk | PS5 |
 | Feb.  5 | W | Generalized method of moments (GMM) |  |  |
 | **Feb. 11** | **M** | **Evans Midterm** |  |  |
-| Feb. 12 | W | Statistical learning and linear regression | JWHT Ch. 2, 3, [Notebk](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notebooks/LinRegress/LinRegress.ipynb) | [PS6](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/ProblemSets/PS6/PS6.pdf) |
-| Feb. 17 | M | Classification and logistic regression | JWHT Chs. 2, 4, [Notebk](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notebooks/Classification/LogitKNN.ipynb) |  |
-| Feb. 19 | W | Resampling methods (cross-validation and bootstrapping) | [Notebk](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notebooks/Resampling/Resampling.ipynb) | [PS7](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/ProblemSets/PS7/PS7.pdf) |
-| Feb. 24 | M | Interpolation | [Notebk](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notebooks/Interp/Interp.ipynb) |  |
-| Feb. 26 | W | Tree-based methods | JWHT Ch. 8, [Notebk](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notebooks/Trees/Trees.ipynb) | [PS8](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/ProblemSets/PS8/PS8.pdf) |
+| Feb. 12 | W | Statistical learning and linear regression | JWHT Ch. 2, 3, Notebk | PS6 |
+| Feb. 17 | M | Classification and logistic regression | JWHT Chs. 2, 4, Notebk |  |
+| Feb. 19 | W | Resampling methods (cross-validation and bootstrapping) | Notebk | PS7 |
+| Feb. 24 | M | Interpolation | Notebk |  |
+| Feb. 26 | W | Tree-based methods | JWHT Ch. 8, Notebk | PS8 |
 | Mar.  2 | M | Tree-based methods | JWHT Ch. 8 |  |
-| Mar.  4 | W | Support vector machines | JWHT Ch. 9, [Notebk](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notebooks/SVM/SVM.ipynb) |  |
-| Mar. 9 | M | Neural networks | HTF Ch. 11, G Ch. 10 | [PS9](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/ProblemSets/PS9/PS9.pdf) |
-| Mar. 11 | W | Neural networks  | [Notebk](https://github.com/UC-MACSS/persp-model-econ_W19/blob/master/Notebooks/NeuralNet/NeuralNet.ipynb) |  |
+| Mar.  4 | W | Support vector machines | JWHT Ch. 9, Notebk |  |
+| Mar.  9 | M | Neural networks | HTF Ch. 11, G Ch. 10 | PS9 |
+| Mar. 11 | W | Neural networks  | Notebk |  |
 
 ## References and Readings ##
 
