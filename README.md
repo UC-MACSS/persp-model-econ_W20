@@ -4,7 +4,7 @@
 |--------------|----------------------------|--------------------------|
 | Email | rwevans@uchicago.edu | keertana@uchicago.edu |
 | Office | 1155 S 60th St., Room 217 |     |
-| Office Hours | T 10:30am-12:30pm | TBA |
+| Office Hours | T 10:30am-12:30pm | Th 1-3p, (224 Lounge) |
 | GitHub | [rickecon](https://github.com/rickecon) | [keertanavc](https://github.com/keertanavc) |
 
 * **Meeting day/time**: MW 11:30am-1:20pm, Saieh Hall, Room 247
