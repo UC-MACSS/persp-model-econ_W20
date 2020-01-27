@@ -4,7 +4,7 @@
 |--------------|----------------------------|--------------------------|
 | Email | rwevans@uchicago.edu | keertana@uchicago.edu |
 | Office | 1155 S 60th St., Room 217 |     |
-| Office Hours | T 10:30am-12:30pm | TBA |
+| Office Hours | T 10:30am-12:30pm | Th 1-3p, (224 Lounge) |
 | GitHub | [rickecon](https://github.com/rickecon) | [keertanavc](https://github.com/keertanavc) |
 
 * **Meeting day/time**: MW 11:30am-1:20pm, Saieh Hall, Room 247
@@ -57,7 +57,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Jan.  6 | M | Model/theory building, data generating processes | [V1997](http://people.ischool.berkeley.edu/~hal/Papers/how.pdf), [Slides](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/Slides/PerspModel_Intro.pdf) | [PS1](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/ProblemSets/PS1/PS1.pdf) |
 | Jan.  8 | W | Numerical derivatives | [Notes](https://github.com/UC-MACSS/persp-model-econ_w20/blob/master/Notes/ACME_NumDiff.pdf) | [PS2](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/ProblemSets/PS2/PS2.pdf) |
 | Jan. 13 | M | Numerical integration | [Notebk](https://github.com/UC-MACSS/persp-model-econ_w20/blob/master/Notebooks/NumIntegr/NumIntegr.ipynb) |  |
-| Jan. 15 | W | Dynamic programming   | Notes | PS3 |
+| Jan. 15 | W | Dynamic programming   | [Notes](https://github.com/UC-MACSS/persp-model-econ_w20/blob/master/Notes/DynProg_Evans.pdf) | [PS3](https://github.com/UC-MACSS/persp-model-econ_w20/blob/master/ProblemSets/PS3/PS3.pdf) |
 | Jan. 20 | M | **No class (Martin Luther King, Jr. Day)** |  |  |
 | Jan. 22 | W | Dynamic programming   | |     |
 | Jan. 27 | M | Maximum likelihood estimation (MLE) | Notebk | PS4 |
