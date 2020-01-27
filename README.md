@@ -60,7 +60,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Jan. 15 | W | Dynamic programming   | [Notes](https://github.com/UC-MACSS/persp-model-econ_w20/blob/master/Notes/DynProg_Evans.pdf) | [PS3](https://github.com/UC-MACSS/persp-model-econ_w20/blob/master/ProblemSets/PS3/PS3.pdf) |
 | Jan. 20 | M | **No class (Martin Luther King, Jr. Day)** |  |  |
 | Jan. 22 | W | Dynamic programming   | |     |
-| Jan. 27 | M | Maximum likelihood estimation (MLE) | Notebk | PS4 |
+| Jan. 27 | M | Maximum likelihood estimation (MLE) | [Notebk](https://github.com/UC-MACSS/persp-model-econ_w20/blob/master/Notebooks/MLE/MLest.ipynb) | [PS4](https://github.com/UC-MACSS/persp-model-econ_w20/blob/master/ProblemSets/PS4/PS4.pdf) |
 | Jan. 29 | W | Maximum likelihood estimation (MLE) | |  |
 | Feb.  3 | M | Generalized method of moments (GMM) | Notebk | PS5 |
 | Feb.  5 | W | Generalized method of moments (GMM) |  |  |
