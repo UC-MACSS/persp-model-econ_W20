@@ -57,14 +57,14 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Jan.  6 | M | Model/theory building, data generating processes | [V1997](http://people.ischool.berkeley.edu/~hal/Papers/how.pdf), [Slides](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/Slides/PerspModel_Intro.pdf) | [PS1](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/ProblemSets/PS1/PS1.pdf) |
 | Jan.  8 | W | Numerical derivatives | [Notes](https://github.com/UC-MACSS/persp-model-econ_w20/blob/master/Notes/ACME_NumDiff.pdf) | [PS2](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/ProblemSets/PS2/PS2.pdf) |
 | Jan. 13 | M | Numerical integration | [Notebk](https://github.com/UC-MACSS/persp-model-econ_w20/blob/master/Notebooks/NumIntegr/NumIntegr.ipynb) |  |
-| Jan. 15 | W | Dynamic programming   | [Notes](https://github.com/UC-MACSS/persp-model-econ_w20/blob/master/Notes/DynProg_Evans.pdf) | [PS3](https://github.com/UC-MACSS/persp-model-econ_w20/blob/master/ProblemSets/PS3/PS3.pdf) |
+| Jan. 15 | W | Dynamic programming   | [Notes](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/Notes/DynProg_Evans.pdf) | [PS3](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/ProblemSets/PS3/PS3.pdf) |
 | Jan. 20 | M | **No class (Martin Luther King, Jr. Day)** |  |  |
 | Jan. 22 | W | Dynamic programming   | |     |
-| Jan. 27 | M | Maximum likelihood estimation (MLE) | [Notebk](https://github.com/UC-MACSS/persp-model-econ_w20/blob/master/Notebooks/MLE/MLest.ipynb) | [PS4](https://github.com/UC-MACSS/persp-model-econ_w20/blob/master/ProblemSets/PS4/PS4.pdf) |
+| Jan. 27 | M | Maximum likelihood estimation (MLE) | [Notebk](https://github.com/UC-MACSS/persp-model-econ_S20/blob/master/Notebooks/MLE/MLest.ipynb) | [PS4](https://github.com/UC-MACSS/persp-model-econ_S20/blob/master/ProblemSets/PS4/PS4.pdf) |
 | Jan. 29 | W | Maximum likelihood estimation (MLE) | |  |
-| Feb.  3 | M | Generalized method of moments (GMM) | Notebk | PS5 |
+| Feb.  3 | M | Generalized method of moments (GMM) | [Notebk](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/Notebooks/GMM/GMMest.ipynb) | [PS5](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/ProblemSets/PS5/PS5.pdf) |
 | Feb.  5 | W | Generalized method of moments (GMM) |  |  |
-| **Feb. 11** | **M** | **Evans Midterm** |  |  |
+| **Feb. 10** | **M** | **Evans Midterm** |  |  |
 | Feb. 12 | W | Statistical learning and linear regression | JWHT Ch. 2, 3, Notebk | PS6 |
 | Feb. 17 | M | Classification and logistic regression | JWHT Chs. 2, 4, Notebk |  |
 | Feb. 19 | W | Resampling methods (cross-validation and bootstrapping) | Notebk | PS7 |
