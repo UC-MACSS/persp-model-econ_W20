@@ -65,7 +65,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Feb.  3 | M | Generalized method of moments (GMM) | [Notebk](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/Notebooks/GMM/GMMest.ipynb) | [PS5](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/ProblemSets/PS5/PS5.pdf) |
 | Feb.  5 | W | Generalized method of moments (GMM) |  |  |
 | **Feb. 10** | **M** | **Evans Midterm** |  |  |
-| Feb. 12 | W | Statistical learning and linear regression | JWHT Ch. 2, 3, Notebk | PS6 |
+| Feb. 12 | W | Statistical learning and linear regression | JWHT Ch. 2, 3, [Notebk](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/Notebooks/LinRegress/LinRegress.ipynb) | [PS6](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/ProblemSets/PS6/PS6.pdf) |
 | Feb. 17 | M | Classification and logistic regression | JWHT Chs. 2, 4, Notebk |  |
 | Feb. 19 | W | Resampling methods (cross-validation and bootstrapping) | Notebk | PS7 |
 | Feb. 24 | M | Interpolation | Notebk |  |
