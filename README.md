@@ -69,7 +69,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Feb. 17 | M | Classification and logistic regression | JWHT Chs. 2, 4, [Notebk](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/Notebooks/Classification/LogitKNN.ipynb) |  |
 | Feb. 19 | W | Resampling methods (cross-validation and bootstrapping) | [Notebk](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/Notebooks/Resampling/Resampling.ipynb) | [PS7](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/ProblemSets/PS7/PS7.pdf) |
 | Feb. 24 | M | Interpolation | [Notebk](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/Notebooks/Interp/Interp.ipynb) |  |
-| Feb. 26 | W | Tree-based methods | JWHT Ch. 8, Notebk | PS8 |
+| Feb. 26 | W | Tree-based methods | JWHT Ch. 8, [Notebk](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/Notebooks/Trees/Trees.ipynb) | [PS8](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/ProblemSets/PS8/PS8.pdf) |
 | Mar.  2 | M | Tree-based methods | JWHT Ch. 8 |  |
 | Mar.  4 | W | Support vector machines | JWHT Ch. 9, Notebk |  |
 | Mar.  9 | M | Neural networks | HTF Ch. 11, G Ch. 10 | PS9 |
