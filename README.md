@@ -71,7 +71,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Feb. 24 | M | Interpolation | [Notebk](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/Notebooks/Interp/Interp.ipynb) |  |
 | Feb. 26 | W | Tree-based methods | JWHT Ch. 8, [Notebk](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/Notebooks/Trees/Trees.ipynb) | [PS8](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/ProblemSets/PS8/PS8.pdf) |
 | Mar.  2 | M | Tree-based methods | JWHT Ch. 8 |  |
-| Mar.  4 | W | Support vector machines | JWHT Ch. 9, Notebk |  |
+| Mar.  4 | W | Support vector machines | JWHT Ch. 9, [Notebk](https://github.com/UC-MACSS/persp-model-econ_W20/blob/master/Notebooks/SVM/SVM.ipynb) |  |
 | Mar.  9 | M | Neural networks | HTF Ch. 11, G Ch. 10 | PS9 |
 | Mar. 11 | W | Neural networks  | Notebk |  |
 
